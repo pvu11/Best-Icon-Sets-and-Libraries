@@ -9,7 +9,7 @@ a curated list of high quality icon sets and libraries for UI Design
   <li>https://roundicons.com/</li>
   <li>https://icons8.com/app#/ios</li>
   <li>http://www.glyphish.com/</li>
-<li>https://iconsmind.com/)</li>
+<li>https://iconsmind.com/</li>
 </ul>
 
 <h5>Set</h5>
