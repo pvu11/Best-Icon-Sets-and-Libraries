@@ -1,4 +1,4 @@
-
+I create this list to save time when designing UI. Feel free to contribue your favorite icon sets and libraries. I would not include popular icon sites such as <bold>The Noun</bold>, <bold>Flat Icon</bold> - as they do not apply a strict, common standard for their icon collections. 
 
 <h5>Library</h5>
 <ul>
