@@ -1,17 +1,15 @@
 # Best-Icon-Sets-and-Libraries
 a curated list of high quality icon sets and libraries for UI Design
 
-##Library
+<h5>Library</h5>
 <ul>
-  <li>[Orion Icon](https://orioniconlibrary.com/)</li>
-[Nucleo](https://nucleoapp.com/)
-
-[Nova](https://www.webalys.com/nova/) - Biggest Material Icons Library
-
-[Icon 8] (https://icons8.com/app#/ios)
-[Glyphish](http://www.glyphish.com/)
-[Round Icons(https://roundicons.com/)
-[Icons Mind](https://iconsmind.com/)
+  <li>https://orioniconlibrary.com/</li>
+  <li>https://nucleoapp.com/</li>
+  <li>https://www.webalys.com/nova/ - Biggest Material Icons Library</li>
+  <li>https://roundicons.com/</li>
+  <li>https://icons8.com/app#/ios</li>
+  <li>http://www.glyphish.com/</li>
+<li>https://iconsmind.com/)</li>
 </ul>
 
 ##Set
