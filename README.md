@@ -2,7 +2,8 @@
 a curated list of high quality icon sets and libraries for UI Design
 
 ##Library
-[Orion Icon](https://orioniconlibrary.com/)
+<ul>
+  <li>[Orion Icon](https://orioniconlibrary.com/)</li>
 [Nucleo](https://nucleoapp.com/)
 
 [Nova](https://www.webalys.com/nova/) - Biggest Material Icons Library
@@ -11,6 +12,7 @@ a curated list of high quality icon sets and libraries for UI Design
 [Glyphish](http://www.glyphish.com/)
 [Round Icons(https://roundicons.com/)
 [Icons Mind](https://iconsmind.com/)
+</ul>
 
 ##Set
 https://www.gonzodesign.nl/gonzocons/
