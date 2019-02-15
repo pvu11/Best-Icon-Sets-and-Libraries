@@ -3,7 +3,6 @@ a curated list of high quality icon sets and libraries for UI Design
 
 ##Library
 [Orion Icon](https://orioniconlibrary.com/)
-
 [Nucleo](https://nucleoapp.com/)
 
 [Nova](https://www.webalys.com/nova/) - Biggest Material Icons Library
