@@ -1,4 +1,4 @@
-# Best-Icon-Sets-and-Libraries
+# Best Icon Sets andLibraries
 a curated list of high quality icon sets and libraries for UI Design
 
 <h5>Library</h5>
