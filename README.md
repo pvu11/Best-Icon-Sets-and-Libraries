@@ -1,4 +1,4 @@
-I create this list to save time when designing UI. Would appreciate your sharing your favorites. I would not include popular icon sites such as <bold>The Noun</bold>, <bold>Flat Icon</bold> - as they do not apply a strict, common standard for their icon collections. 
+I create this list to save time when designing UI. Would appreciate your sharing your favorites. I do not include popular icon sites such as <bold>The Noun</bold>, <bold>Flat Icon</bold> - as they do not apply a strict standard for their icon collections. 
 
 <h5>Library</h5>
 <ul>
